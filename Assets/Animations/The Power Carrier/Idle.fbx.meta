@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: dc57d71dd62e4e6448691ec0216092b1
+timeCreated: 1497704939
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BE_Head_Joint01
+    100002: BE_Hip_Joint01
+    100004: BE_Leg_Joint01
+    100006: BE_Leg_Joint01 1
+    100008: BN_Body_Joint01
+    100010: BN_Chest_Joint01
+    100012: BN_Head_Joint01
+    100014: BN_Hip_Joint01
+    100016: BN_Knee_Joint01
+    100018: BN_Knee_Joint01 1
+    100020: BN_Leg_Left_Joint01
+    100022: BN_Leg_Right_Joint01
+    100024: BN_Root_Joint01
+    100026: Body_Geo
+    100028: Character_Geo
+    100030: Eye_Left_Geo
+    100032: Eye_Right_Geo
+    100034: Head_Geo
+    100036: //RootNode
+    100038: IK_Group
+    100040: ikHandle1
+    100042: ikHandle2
+    100044: Leg_Left_Geo
+    100046: Leg_Right_Geo
+    100048: Lips_Geo
+    400000: BE_Head_Joint01
+    400002: BE_Hip_Joint01
+    400004: BE_Leg_Joint01
+    400006: BE_Leg_Joint01 1
+    400008: BN_Body_Joint01
+    400010: BN_Chest_Joint01
+    400012: BN_Head_Joint01
+    400014: BN_Hip_Joint01
+    400016: BN_Knee_Joint01
+    400018: BN_Knee_Joint01 1
+    400020: BN_Leg_Left_Joint01
+    400022: BN_Leg_Right_Joint01
+    400024: BN_Root_Joint01
+    400026: Body_Geo
+    400028: Character_Geo
+    400030: Eye_Left_Geo
+    400032: Eye_Right_Geo
+    400034: Head_Geo
+    400036: //RootNode
+    400038: IK_Group
+    400040: ikHandle1
+    400042: ikHandle2
+    400044: Leg_Left_Geo
+    400046: Leg_Right_Geo
+    400048: Lips_Geo
+    4300000: Leg_Left_Geo
+    4300002: Leg_Right_Geo
+    4300004: Body_Geo
+    4300006: Lips_Geo
+    4300008: Eye_Left_Geo
+    4300010: Eye_Right_Geo
+    4300012: Head_Geo
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Body_Geo
+    13700002: Eye_Left_Geo
+    13700004: Eye_Right_Geo
+    13700006: Head_Geo
+    13700008: Leg_Left_Geo
+    13700010: Leg_Right_Geo
+    13700012: Lips_Geo
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BN_Root_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01/BE_Head_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BE_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Joint01/BE_Leg_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Joint01
+          1
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Joint01
+          1/BE_Leg_Joint01 1
+        weight: 1
+      - path: Character_Geo
+        weight: 1
+      - path: Character_Geo/Body_Geo
+        weight: 1
+      - path: Character_Geo/Eye_Left_Geo
+        weight: 1
+      - path: Character_Geo/Eye_Right_Geo
+        weight: 1
+      - path: Character_Geo/Head_Geo
+        weight: 1
+      - path: Character_Geo/Leg_Left_Geo
+        weight: 1
+      - path: Character_Geo/Leg_Right_Geo
+        weight: 1
+      - path: Character_Geo/Lips_Geo
+        weight: 1
+      - path: IK_Group
+        weight: 1
+      - path: IK_Group/ikHandle1
+        weight: 1
+      - path: IK_Group/ikHandle2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 2b697b25c47ca414684a9b76a2191cd0
+timeCreated: 1497625465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Right_Geo
+    100002: Arm_Right_Geo1
+    100004: BE_Arm_Left_Joint01
+    100006: BE_Arm_Right_Joint01
+    100008: BE_Hair_Joint01
+    100010: BE_Hip_Joint01
+    100012: BE_Leg_Left_Joint01
+    100014: BE_Leg_Right_Joint01
+    100016: BN_Arm_Left_Joint01
+    100018: BN_Arm_Right_Joint01
+    100020: BN_Body_Joint01
+    100022: BN_Chest_Joint01
+    100024: BN_Elbow_Left_Joint01
+    100026: BN_Elbow_Right_Joint01
+    100028: BN_Hair_Joint01
+    100030: BN_Head_Joint01
+    100032: BN_Hip_Joint01
+    100034: BN_Knee_Left_Joint01
+    100036: BN_Knee_Right_Joint01
+    100038: BN_Leg_Left_Joint01
+    100040: BN_Leg_Right_Joint01
+    100042: BN_Root_Joint01
+    100044: BN_Wrist_Left_Joint01
+    100046: BN_Wrist_Right_Joint01
+    100048: Body_Geo
+    100050: Eye_Left_Geo
+    100052: Eye_Right_Geo
+    100054: Hair01_Geo
+    100056: Hair01_Geo1
+    100058: Hair01_Geo2
+    100060: Hair01_Geo3
+    100062: Hair01_Geo4
+    100064: Hair01_Geo5
+    100066: Head_Geo
+    100068: IK_Group
+    100070: IK_Leg_Left
+    100072: IK_Leg_Right
+    100074: Leg_Left_Geo
+    100076: Leg_Right_Geo
+    100078: Mouth_Geo
+    100080: The_Mediocre_Character
+    100082: //RootNode
+    400000: Arm_Right_Geo
+    400002: Arm_Right_Geo1
+    400004: BE_Arm_Left_Joint01
+    400006: BE_Arm_Right_Joint01
+    400008: BE_Hair_Joint01
+    400010: BE_Hip_Joint01
+    400012: BE_Leg_Left_Joint01
+    400014: BE_Leg_Right_Joint01
+    400016: BN_Arm_Left_Joint01
+    400018: BN_Arm_Right_Joint01
+    400020: BN_Body_Joint01
+    400022: BN_Chest_Joint01
+    400024: BN_Elbow_Left_Joint01
+    400026: BN_Elbow_Right_Joint01
+    400028: BN_Hair_Joint01
+    400030: BN_Head_Joint01
+    400032: BN_Hip_Joint01
+    400034: BN_Knee_Left_Joint01
+    400036: BN_Knee_Right_Joint01
+    400038: BN_Leg_Left_Joint01
+    400040: BN_Leg_Right_Joint01
+    400042: BN_Root_Joint01
+    400044: BN_Wrist_Left_Joint01
+    400046: BN_Wrist_Right_Joint01
+    400048: Body_Geo
+    400050: Eye_Left_Geo
+    400052: Eye_Right_Geo
+    400054: Hair01_Geo
+    400056: Hair01_Geo1
+    400058: Hair01_Geo2
+    400060: Hair01_Geo3
+    400062: Hair01_Geo4
+    400064: Hair01_Geo5
+    400066: Head_Geo
+    400068: IK_Group
+    400070: IK_Leg_Left
+    400072: IK_Leg_Right
+    400074: Leg_Left_Geo
+    400076: Leg_Right_Geo
+    400078: Mouth_Geo
+    400080: The_Mediocre_Character
+    400082: //RootNode
+    4300000: Leg_Left_Geo
+    4300002: Leg_Right_Geo
+    4300004: Mouth_Geo
+    4300006: Head_Geo
+    4300008: Eye_Right_Geo
+    4300010: Eye_Left_Geo
+    4300012: Arm_Right_Geo
+    4300014: Body_Geo
+    4300016: Arm_Right_Geo1
+    4300018: Hair01_Geo
+    4300020: Hair01_Geo1
+    4300022: Hair01_Geo2
+    4300024: Hair01_Geo3
+    4300026: Hair01_Geo4
+    4300028: Hair01_Geo5
+    7400000: Walk
+    9500000: //RootNode
+    13700000: Arm_Right_Geo
+    13700002: Arm_Right_Geo1
+    13700004: Body_Geo
+    13700006: Eye_Left_Geo
+    13700008: Eye_Right_Geo
+    13700010: Hair01_Geo
+    13700012: Hair01_Geo1
+    13700014: Hair01_Geo2
+    13700016: Hair01_Geo3
+    13700018: Hair01_Geo4
+    13700020: Hair01_Geo5
+    13700022: Head_Geo
+    13700024: Leg_Left_Geo
+    13700026: Leg_Right_Geo
+    13700028: Mouth_Geo
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BN_Root_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01/BN_Wrist_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01/BN_Wrist_Left_Joint01/BE_Arm_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01/BN_Wrist_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01/BN_Wrist_Right_Joint01/BE_Arm_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01/BN_Hair_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01/BN_Hair_Joint01/BE_Hair_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BE_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Left_Joint01/BE_Leg_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Right_Joint01/BE_Leg_Right_Joint01
+        weight: 1
+      - path: IK_Group
+        weight: 1
+      - path: IK_Group/IK_Leg_Left
+        weight: 1
+      - path: IK_Group/IK_Leg_Right
+        weight: 1
+      - path: The_Mediocre_Character
+        weight: 1
+      - path: The_Mediocre_Character/Arm_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Arm_Right_Geo1
+        weight: 1
+      - path: The_Mediocre_Character/Body_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Eye_Left_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Eye_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo1
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo2
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo3
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo4
+        weight: 1
+      - path: The_Mediocre_Character/Hair01_Geo5
+        weight: 1
+      - path: The_Mediocre_Character/Head_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Leg_Left_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Leg_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Mouth_Geo
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 1b30d6ea5e31e784d8bc79f6bc8e781f
+timeCreated: 1497518578
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BE_Head_Joint01
+    100002: BE_Hip_Joint01
+    100004: BE_Leg_Left_Joint01
+    100006: BE_Leg_Right_Joint01
+    100008: BN_Body_Joint01
+    100010: BN_Chest_Joint01
+    100012: BN_Head_Joint01
+    100014: BN_Hip_Joint01
+    100016: BN_Knee_Left_Joint01
+    100018: BN_Knee_Right_Joint01
+    100020: BN_Leg_Left_Joint01
+    100022: BN_Leg_Right_Joint01
+    100024: BN_Root_Joint01
+    100026: BN_Wing_Left_Joint01
+    100028: BN_Wing_Right_Joint01
+    100030: Body_Geo
+    100032: Eye_Left_Geo
+    100034: Eye_Right_Geo
+    100036: Head_Geo
+    100038: IK_Group
+    100040: IK_Leg_Left
+    100042: IK_Leg_Right
+    100044: joint2
+    100046: joint2 1
+    100048: Leg_Left_Geo
+    100050: Leg_Right_Geo
+    100052: Lips_Geo
+    100054: //RootNode
+    100056: The_Mediocre_Character
+    100058: Wing_Left_Geo
+    100060: Wing_Right_Geo
+    400000: BE_Head_Joint01
+    400002: BE_Hip_Joint01
+    400004: BE_Leg_Left_Joint01
+    400006: BE_Leg_Right_Joint01
+    400008: BN_Body_Joint01
+    400010: BN_Chest_Joint01
+    400012: BN_Head_Joint01
+    400014: BN_Hip_Joint01
+    400016: BN_Knee_Left_Joint01
+    400018: BN_Knee_Right_Joint01
+    400020: BN_Leg_Left_Joint01
+    400022: BN_Leg_Right_Joint01
+    400024: BN_Root_Joint01
+    400026: BN_Wing_Left_Joint01
+    400028: BN_Wing_Right_Joint01
+    400030: Body_Geo
+    400032: Eye_Left_Geo
+    400034: Eye_Right_Geo
+    400036: Head_Geo
+    400038: IK_Group
+    400040: IK_Leg_Left
+    400042: IK_Leg_Right
+    400044: joint2
+    400046: joint2 1
+    400048: Leg_Left_Geo
+    400050: Leg_Right_Geo
+    400052: Lips_Geo
+    400054: //RootNode
+    400056: The_Mediocre_Character
+    400058: Wing_Left_Geo
+    400060: Wing_Right_Geo
+    4300000: Leg_Left_Geo
+    4300002: Leg_Right_Geo
+    4300004: Head_Geo
+    4300006: Eye_Right_Geo
+    4300008: Eye_Left_Geo
+    4300010: Body_Geo
+    4300012: Wing_Left_Geo
+    4300014: Wing_Right_Geo
+    4300016: Lips_Geo
+    9500000: //RootNode
+    13700000: Body_Geo
+    13700002: Eye_Left_Geo
+    13700004: Eye_Right_Geo
+    13700006: Head_Geo
+    13700008: Leg_Left_Geo
+    13700010: Leg_Right_Geo
+    13700012: Lips_Geo
+    13700014: Wing_Left_Geo
+    13700016: Wing_Right_Geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

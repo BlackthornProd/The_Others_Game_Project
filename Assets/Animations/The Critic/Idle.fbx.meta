@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 76dfe0c65c292f1439106db533ac18b3
+timeCreated: 1497465391
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Right_Geo
+    100002: Arm_Right_Geo1
+    100004: BE_Arm_Left_Joint01
+    100006: BE_Arm_Right_Joint01
+    100008: BE_Head_Joint01
+    100010: BE_Hip_Joint01
+    100012: BE_Leg_Left_Joint01
+    100014: BE_Leg_Right_Joint01
+    100016: BN_Arm_Left_Joint01
+    100018: BN_Arm_Right_Joint01
+    100020: BN_Body_Joint01
+    100022: BN_Chest_Joint01
+    100024: BN_Elbow_Left_Joint01
+    100026: BN_Elbow_Right_Joint01
+    100028: BN_Head_Joint01
+    100030: BN_Hip_Joint01
+    100032: BN_Knee_Left_Joint01
+    100034: BN_Knee_Right_Joint01
+    100036: BN_Leg_Left_Joint01
+    100038: BN_Leg_Right_Joint01
+    100040: BN_Root_Joint01
+    100042: BN_Wrist_Left_Joint01
+    100044: BN_Wrist_Right_Joint01
+    100046: Body_Geo
+    100048: Eye_Left_Geo
+    100050: Eye_Right_Geo
+    100052: Head_Geo
+    100054: //RootNode
+    100056: IK_Group
+    100058: IK_Leg_Left
+    100060: IK_Leg_Right
+    100062: Leg_Left_Geo
+    100064: Leg_Right_Geo
+    100066: Lips_Geo
+    100068: The_Mediocre_Character
+    100070: Tooth01_Geo
+    100072: Tooth02_Geo
+    100074: Tooth03_Geo
+    400000: Arm_Right_Geo
+    400002: Arm_Right_Geo1
+    400004: BE_Arm_Left_Joint01
+    400006: BE_Arm_Right_Joint01
+    400008: BE_Head_Joint01
+    400010: BE_Hip_Joint01
+    400012: BE_Leg_Left_Joint01
+    400014: BE_Leg_Right_Joint01
+    400016: BN_Arm_Left_Joint01
+    400018: BN_Arm_Right_Joint01
+    400020: BN_Body_Joint01
+    400022: BN_Chest_Joint01
+    400024: BN_Elbow_Left_Joint01
+    400026: BN_Elbow_Right_Joint01
+    400028: BN_Head_Joint01
+    400030: BN_Hip_Joint01
+    400032: BN_Knee_Left_Joint01
+    400034: BN_Knee_Right_Joint01
+    400036: BN_Leg_Left_Joint01
+    400038: BN_Leg_Right_Joint01
+    400040: BN_Root_Joint01
+    400042: BN_Wrist_Left_Joint01
+    400044: BN_Wrist_Right_Joint01
+    400046: Body_Geo
+    400048: Eye_Left_Geo
+    400050: Eye_Right_Geo
+    400052: Head_Geo
+    400054: //RootNode
+    400056: IK_Group
+    400058: IK_Leg_Left
+    400060: IK_Leg_Right
+    400062: Leg_Left_Geo
+    400064: Leg_Right_Geo
+    400066: Lips_Geo
+    400068: The_Mediocre_Character
+    400070: Tooth01_Geo
+    400072: Tooth02_Geo
+    400074: Tooth03_Geo
+    4300000: Lips_Geo
+    4300002: Tooth01_Geo
+    4300004: Tooth02_Geo
+    4300006: Tooth03_Geo
+    4300008: Leg_Left_Geo
+    4300010: Leg_Right_Geo
+    4300012: Head_Geo
+    4300014: Eye_Left_Geo
+    4300016: Eye_Right_Geo
+    4300018: Arm_Right_Geo
+    4300020: Body_Geo
+    4300022: Arm_Right_Geo1
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Arm_Right_Geo
+    13700002: Arm_Right_Geo1
+    13700004: Body_Geo
+    13700006: Eye_Left_Geo
+    13700008: Eye_Right_Geo
+    13700010: Head_Geo
+    13700012: Leg_Left_Geo
+    13700014: Leg_Right_Geo
+    13700016: Lips_Geo
+    13700018: Tooth01_Geo
+    13700020: Tooth02_Geo
+    13700022: Tooth03_Geo
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BN_Root_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01/BN_Wrist_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Left_Joint01/BN_Elbow_Left_Joint01/BN_Wrist_Left_Joint01/BE_Arm_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01/BN_Wrist_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Arm_Right_Joint01/BN_Elbow_Right_Joint01/BN_Wrist_Right_Joint01/BE_Arm_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Body_Joint01/BN_Chest_Joint01/BN_Head_Joint01/BE_Head_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BE_Hip_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Left_Joint01/BN_Knee_Left_Joint01/BE_Leg_Left_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Right_Joint01
+        weight: 1
+      - path: BN_Root_Joint01/BN_Hip_Joint01/BN_Leg_Right_Joint01/BN_Knee_Right_Joint01/BE_Leg_Right_Joint01
+        weight: 1
+      - path: IK_Group
+        weight: 1
+      - path: IK_Group/IK_Leg_Left
+        weight: 1
+      - path: IK_Group/IK_Leg_Right
+        weight: 1
+      - path: The_Mediocre_Character
+        weight: 1
+      - path: The_Mediocre_Character/Arm_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Arm_Right_Geo1
+        weight: 1
+      - path: The_Mediocre_Character/Body_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Eye_Left_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Eye_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Head_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Leg_Left_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Leg_Right_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Lips_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Tooth01_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Tooth02_Geo
+        weight: 1
+      - path: The_Mediocre_Character/Tooth03_Geo
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
